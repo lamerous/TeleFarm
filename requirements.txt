@@ -1,0 +1,9 @@
+pyrogram
+tgcrypto
+decouple
+dotenv
+pyqt5
+requests
+bs4
+requests[socks]
+shutill
