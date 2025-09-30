@@ -9,16 +9,16 @@ Merging accounts and performing the same actions on them.
 
 # 🚀 Quick Start
 ## 🔐 Remove cloud-stored password
-![Remove cloud-stored password](image/quickstart-cloudpass.png)
+![Remove cloud-stored password](images/quickstart-cloudpass.png)
 ## 🔑 Register your Telegram API ID
 ### 1. Go to my.telegram.org/auth
-![Main website page](image/quickstart-authpage.png)
+![Main website page](images/quickstart-authpage.png)
 ### 2. Login to your Telegram account
-![Login to telegram account](image/quickstart-login.png)
+![Login to telegram account](images/quickstart-login.png)
 ### 3. Go to API development tools
-![API development tools](image/quickstart-apidevtool.png)
+![API development tools](images/quickstart-apidevtool.png)
 ### 4. Fill the fields by unique values
-![Fill fields](image/quickstart-fillfields.png)
+![Fill fields](images/quickstart-fillfields.png)
 
 
 # ⚙️ Building
