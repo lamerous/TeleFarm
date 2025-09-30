@@ -1,16 +1,15 @@
-# 🌐 Available Languages
+## 🌐 Available Languages
 - 🇬🇧 [English](README.md)
 - 🇷🇺 [Русский](README.ru.md)
 
-# ✈️ Description
+## ✈️ Description
+![Presentation image](images/present-image.jpg)
+
 <div align="center">
   Merge accounts and perform the same actions on them.
 </div>
-<br>
 
-![Presentation image](images/present-image.jpg)
-
-# 🚀 Quick Start
+## 🚀 Quick Start
 1. **🔐 Remove cloud-stored password**
 ![Remove cloud-stored password](images/quickstart-cloudpass.png)
 2. **🔑 Register your Telegram API ID**
@@ -23,11 +22,11 @@
     -  Fill the fields by unique values ![Fill fields](images/quickstart-fillfields.png)
 
 
-# ⚙️ Building
+## ⚙️ Building
 
-# 🧪 Usage Example
+## 🧪 Usage Example
 
-# ❗Troubleshooting 
+## ❗Troubleshooting 
 
 ###  ❌ Error: 
 `Failed building wheel for tgcrypto`
@@ -37,7 +36,7 @@ Install TgCrypto-pyrofork by
 pip install TgCrypto-pyrofork
 ```
 
-# 📄 License
+## 📄 License
 This project is licensed under the [GPLv3 license](LICENSE).
 
 # 🔗 Resources
