@@ -3,7 +3,9 @@
 - 🇷🇺 [Русский](README.ru.md)
 
 ## ✈️ Description
-![Presentation image](images/present-image.jpg)
+<div align="center">
+  <img src="images/present-image.jpg">
+</div>
 
 <div align="center">
   Merge accounts and perform the same actions on them.
@@ -11,17 +13,14 @@
 
 ## 🚀 Quick Start
 1. **🔐 Remove cloud-stored password**
-![Remove cloud-stored password](images/quickstart-cloudpass.png)
-2. **🔑 Register your Telegram API ID**
-      Go to my.telegram.org/auth ![Main website page](images/quickstart-authpage.png)
-      
-    -  Login to your Telegram account ![Login to telegram account](images/quickstart-login.png)
-      
-    -  Go to API development tools ![API development tools](images/quickstart-apidevtool.png)
-      
-    -  Fill the fields by unique values ![Fill fields](images/quickstart-fillfields.png)
+    -  <p align="left"><img src="images/quickstart-cloudpass.png"></p>
 
-
+2. **🔑 Register your Telegram API ID**   
+    -  Go to my.telegram.org/auth <br><div align="left"><img src="images/quickstart-authpage.png" width="400"></div>
+    -  Login to your Telegram account <br><div align="left"><img src="images/quickstart-login.png" width="400"></div>
+    -  Go to API development tools <br><div align="left"><img src="images/quickstart-apidevtools.png" width="400"></div>
+    -  Fill the fields by unique values <br><div align="left"><img src="images/quickstart-fillfields.png" width="400"></div>
+    
 ## ⚙️ Building
 
 ## 🧪 Usage Example
