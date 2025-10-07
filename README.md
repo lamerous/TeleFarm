@@ -37,3 +37,6 @@ pip install TgCrypto-pyrofork
 
 ## 📄 License
 This project is licensed under the [GPLv3 license](LICENSE).
+
+## Resourses
+App icon by Pixel perfect
