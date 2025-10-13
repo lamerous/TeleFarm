@@ -1,0 +1,20 @@
+# Confidential
+.env
+.session
+*.session
+*credentials.json
+
+# Telegram
+*Telegram
+
+# Python
+venv*
+__pycache__/
+*.pyc
+test_scripts/
+Pipfile*
+
+# Others
+proxies.txt
+todo
+old/
