@@ -7,6 +7,9 @@
   <img src="images/present-image.jpg">
 </div>
 
+## ❗DISCLAIMER
+All actions should not be performed on official Telegram servers, as this is contrary to the terms of use.
+
 <div align="center">
   Merge accounts and perform the same actions on them.
 </div>
