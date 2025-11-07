@@ -39,7 +39,7 @@
    ```  
 
 ## 🧪 App screenshots
-<br><div align="left"><img src="images/app-screenshot.png" width="400"></div>
+<div align="left"><img src="images/app-screenshot.png" width="400"></div>
 
 ## ❗Troubleshooting 
 
